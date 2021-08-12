@@ -1,3 +1,3 @@
 Small django website
 
-languages: Python, Html, css
+languages: Python, Html
